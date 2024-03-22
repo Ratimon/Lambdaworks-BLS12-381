@@ -25,3 +25,5 @@ cargo build
 ```bash
 cargo run
 ```
+
+We will get **Public key calculated from  "6C616D6264617370" = "EFC2D10AD531CEBF2B8C7B4325BC93ED91E6477D260304C1F9ECC7BA0E6F5711"**
